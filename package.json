@@ -1,0 +1,27 @@
+{
+  "name": "discord-important-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that reacts to important messages and sends reminders.",
+  "main": "src/bot.ts",
+  "scripts": {
+    "start": "ts-node src/bot.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "typescript": "^4.0.0",
+    "ts-node": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "@types/ws": "^8.0.0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "reminder",
+    "ping"
+  ],
+  "author": "Vincent Schmandt",
+  "license": "MIT"
+}
