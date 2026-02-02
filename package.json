@@ -9,11 +9,11 @@
   },
   "dependencies": {
     "discord.js": "^14.25.1",
-    "typescript": "^5.8.3",
+    "typescript": "^5.9.3",
     "ts-node": "^10.0.0"
   },
   "devDependencies": {
-    "@types/node": "^24.0.3",
+    "@types/node": "^25.2.0",
     "@types/ws": "^8.0.0"
   },
   "keywords": [
